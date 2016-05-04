@@ -1,0 +1,23 @@
+# Dan Wahlin - TypeScript: Angular 2's Secret Weapon
+
+- blog.codewithdan.com
+- Types
+    - string
+    - number
+    - boolean
+    - Array
+    - etc.
+    - Custom Types
+- Tooling
+    - can get intellisense in IDE's like VS Code
+    - refactoring 
+    - peek/go to types
+    - find references
+- Interfaces
+    - Code Contracts
+    - Classes can implement interfaces and tsc will throw an error if they don't satisfy
+- Generics
+    - Code Templates
+- Future
+    - Allows for us to use future features, today
+    - https://tinyurl.com/tssecretweapon

@@ -1,0 +1,25 @@
+<h1 id="justin-schwartzenberger-angular-2-s-fresh-approach-to-style">Justin Schwartzenberger - Angular 2&#39;s Fresh Approach to Style</h1>
+<ul>
+<li>Front end developers are design implementers</li>
+<li>Why the CSS Shim<ul>
+<li>View Encapsulation Modes for Components<ul>
+<li>native (uses shadow DOM, web components)</li>
+<li>none (no shadow DOM, but will output the style just like we wrote it)</li>
+<li>default) emulated (adds specific tags to emulate shadow DOM with unique attribute names)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>What are the negatives about putting the style tags up in the head for each component?</strong></li>
+<li>Shadow DOM Style Hosting<ul>
+<li>:host<ul>
+<li>targets the custom root element of the directive</li>
+</ul>
+</li>
+<li>:host-context<ul>
+<li>targets higher in the DOM tree than the root element(ancestors)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
