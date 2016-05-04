@@ -1,0 +1,21 @@
+# Anas Raza - Functional Reactive JavaScript
+
+- Things to know about functional programming
+    - Separation is good
+        - Pass the data in that you are going to use instead of using global varialbes
+        - Mutations from Calculation
+            - Don't do calculations and modifications in the same call
+    - Pure functions
+        - Mapping Functions 
+        - Given same input, always the same output
+        - Produces no side effects
+    - Functional Nouns
+        - Functions can be thought of as nouns
+    - Functors
+        - An object of data structure you can map over.
+        - Can you prototype the map function on the function?
+- Reactive
+    - programming with async data steams
+    - Push vs Pull
+        - pull is calling for data and something will be returned.
+        - push will wait for something to be given to it, which can happen over time, multiple times.
