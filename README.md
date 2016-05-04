@@ -14,8 +14,7 @@ These are my notes for ng-conf, so I never forget.
 - [Components, Componenets, Components! ... and Angular 1.5](Wednesday/1400-components-angular-15.md)
 - [Testing all your Tasks](Wednesday/1545-testing-your-tasks.md)
 - [Functional Reactive JavaScript- Let's stop the Conversational Remorse](Wednesday/1600-functional-reactive-js.md)
-- [Rockin' 'Round The Docs]()
-- [Sharing Code Between Web and Native Apps]()
-- [Generative Art in Angular 2]()
+- [Sharing Code Between Web and Native Apps](Wednesday/1700-sharing-code-native-apps.md)
+- [Generative Art in Angular 2](Wednesday/1730-generative-art.md)
 - [Progressive Web Apps]()
 
