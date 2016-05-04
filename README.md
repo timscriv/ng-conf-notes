@@ -13,7 +13,7 @@ These are my notes for ng-conf, so I never forget.
 - [Routing](Wednesday/1330-router.md)
 - [Components, Componenets, Components! ... and Angular 1.5](Wednesday/1400-components-angular-15.md)
 - [Testing all your Tasks](Wednesday/1545-testing-your-tasks.md)
-- [Functional Reactive JavaScript- Let's stop the Conversational Remorse]()
+- [Functional Reactive JavaScript- Let's stop the Conversational Remorse](Wednesday/1600-functional-reactive-js.md)
 - [Rockin' 'Round The Docs]()
 - [Sharing Code Between Web and Native Apps]()
 - [Generative Art in Angular 2]()
