@@ -16,5 +16,5 @@ These are my notes for ng-conf, so I never forget.
 - [Functional Reactive JavaScript- Let's stop the Conversational Remorse](Wednesday/1600-functional-reactive-js.md)
 - [Sharing Code Between Web and Native Apps](Wednesday/1700-sharing-code-native-apps.md)
 - [Generative Art in Angular 2](Wednesday/1730-generative-art.md)
-- [Progressive Web Apps]()
+- [Progressive Web Apps](Wednesday/1750-mobile-apps-with-angular.md)
 
